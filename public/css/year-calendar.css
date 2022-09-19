@@ -1,7 +1,17 @@
-.img-fluid{
-    align-content: center;
-}
 
-#navbar{
-    height: 100px;
+.head{
+    text-align: center;
+    background: -webkit-linear-gradient(305deg, #48abe0 37%, #272728 60%, #e13131 76%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;
+    font-size: 3rem;
+}
+.title{
+    height: 60px;
+    background-color: rgba(129, 129, 129, 0.3);
+}
+.image-div{
+    text-align: center;
+}
+#image{
+    height: 100%;
+    width: 100%;
 }
